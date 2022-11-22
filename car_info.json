@@ -1,0 +1,18 @@
+{
+"occupant_mass": 80.0,
+"occupant_count": 1.0,
+"car_mass": 588.0,
+"air_density": 1.225,
+"drag_coefficient": 0.09,
+"frontal_area": 1.864,
+"rolling_resistance_coefficient": 0.00268,
+"gravity": 9.81,
+"motor_efficiency": 0.98,
+"auxiliary_power": 100.0,
+"total_battery_energy": 136800000.0,
+"wheel_radius": 0.2715,
+"rotational_inertia_front": 0.114,
+"rotational_inertia_back": 0.409,
+"regen_max_per_second": 10,
+"regen_efficiency": 0.5
+}
