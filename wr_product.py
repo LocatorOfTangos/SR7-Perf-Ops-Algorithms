@@ -38,5 +38,5 @@ def lamb(lap_number = 0, current_battery = 136800000, occupant_mass = 80, solar_
 
     rpm = 60*v/(wheel_radius*2*3.1415)
 
-    return rpm
+    return rpm, v
 
